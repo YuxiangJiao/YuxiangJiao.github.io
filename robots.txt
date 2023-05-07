@@ -12,4 +12,4 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
-Sitemap: https://yuxiangjiao.github.com/sitemap.xml
+Sitemap: https://yuxiangjiao.github.io/sitemap.xml
