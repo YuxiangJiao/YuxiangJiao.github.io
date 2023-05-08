@@ -11,5 +11,8 @@ Disallow: /css/
 Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
+Disallow: /data/
+Disallow: /images/
+Disallow: /lib/
 
 Sitemap: https://yuxiangjiao.github.io/sitemap.xml
